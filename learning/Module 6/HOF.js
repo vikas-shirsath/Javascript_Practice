@@ -26,3 +26,5 @@ const squaredNum = num.map(function(n) {
 })
 
 console.log(squaredNum);
+
+//here we start new 
